@@ -3,7 +3,7 @@
  * Pointwise Plugin utility functions
  *
  * Proprietary software product of Pointwise, Inc.
- * Copyright (c) 1995-2020 Pointwise, Inc.
+ * Copyright (c) 1995-2021 Pointwise, Inc.
  * All rights reserved.
  *
  ***************************************************************************/
